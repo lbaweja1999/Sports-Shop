@@ -1,0 +1,60 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Lifejacket",
+      "category": "Watersports",
+      "description": "Protective and fashionable",
+      "price": 275
+    },
+    {
+      "id": 2,
+      "name": "Water Tube",
+      "category": "Watersports",
+      "description": "Protective and fashionable",
+      "price": 190
+    },
+    {
+      "id": 3,
+      "name": "Soccerball",
+      "category": "Outdoorsports",
+      "description": "Become like Messi by kicking it to the hardest",
+      "price": 500
+    },
+    {
+      "id": 4,
+      "name": "Cricket Bat",
+      "category": "Outdoorsports",
+      "description": "English Willow bat",
+      "price": 1275
+    },
+    {
+      "id": 5,
+      "name": "Sports Cap",
+      "category": "sports",
+      "description": "Protects You from the Sun",
+      "price": 175
+    },
+    {
+      "id": 6,
+      "name": "Table tennis racket",
+      "category": "Indoorsports",
+      "description": "Very light weight",
+      "price": 475
+    },
+    {
+      "id": 7,
+      "name": "Chess board",
+      "category": "Indoorsports",
+      "description": "Portable",
+      "price": 875
+    },
+    {
+      "id": 8,
+      "name": "Carromboard",
+      "category": "Indoorsports",
+      "description": "Become the King by getting the Queen",
+      "price": 675
+    }
+  ]
+}
